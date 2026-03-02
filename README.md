@@ -3,11 +3,11 @@ Overview:
 This project shows a fully interrupt driven security system using Arduino Uno and demostrates Pin change interrupt, timer interrupt and most importantly sense think act arcitecture.
 
 Hardware Components Used:
-Door Sensor (push button) - D8
-Motion Sensor - D9
-Tilt Sensor - A2
-Alarm LED - D13
-Status LED - D12
+● Door Sensor (push button) - D8
+● Motion Sensor - D9
+● Tilt Sensor - A2
+● Alarm LED - D13
+● Status LED - D12
 
 System Behavior :
 - If any sensor is triggered then Alarm LED turns ON
